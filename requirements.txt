@@ -7,3 +7,4 @@ scipy==1.11.1
 scikit-learn
 shap==0.40.0
 streamlit-shap==1.0.1
+distutils
